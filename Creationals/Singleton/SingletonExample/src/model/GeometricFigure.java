@@ -15,6 +15,6 @@ public class GeometricFigure {
         if(instance == null)
             instance = new GeometricFigure();
         return instance;
-    }
+    };
 
 }
